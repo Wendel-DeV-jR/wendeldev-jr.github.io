@@ -59,7 +59,7 @@ body{
 
      conteudo-principal-imagem {
     height: 40px;
-   display: block;
+   display: flexbox;
  }
      .conteudo-principal-escrito-botão:hover {
       background-color:rgba(236,214,196,0.53);
