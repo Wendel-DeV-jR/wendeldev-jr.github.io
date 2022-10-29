@@ -41,7 +41,7 @@ body{
       align-items: center;
       justify-content: space-around;
    }
-.conteudo principal-imagem {
+conteudo-principal-imagem {
     height: 70px;
    display: flexbox;
  }
