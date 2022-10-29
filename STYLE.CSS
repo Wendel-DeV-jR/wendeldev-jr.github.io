@@ -56,7 +56,11 @@ body{
         color: #ecd6c4;
 
      }
-     
+
+     .conteudo-principal-imagem {
+    height: 20px;
+   display: block;
+ }
      .conteudo-principal-escrito-botão:hover {
       background-color:rgba(236,214,196,0.53);
       width: 180px;
