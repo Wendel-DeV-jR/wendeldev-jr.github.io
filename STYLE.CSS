@@ -41,10 +41,7 @@ body{
       align-items: center;
       justify-content: space-around;
    }
-conteudo-principal-imagem {
-    height: 50px;
-   display: flexbox;
- }
+
    .conteudo-principal-escrito {
       font-family: 'Righteous',cursive;
       font-weight: 300;
