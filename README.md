@@ -44,3 +44,100 @@ esta é a pagina do meu site.
  </body>
  </head>
 </html>
+
+.css{
+    url @import("https://fonts.googleapis.com/css2?family=Righteous&family=sarala:wght@400;700&display=swap");
+
+    margem=0;
+    preenchimento=0;
+    box-sizing: border-box;
+    decoração de texto:nenhuma;
+}
+
+corpo{ 
+    tamanho da fonte: 100%;
+    plano de fundo: gradiente linear (68,15 graus,#0a789916,62%,#6e914b 85,61%);
+}
+. cabeçalho{
+   exibição: flex;
+   flex-direção: linha;
+   itens de alinhamento:centro;
+   justificar-conteúdo:espaço-ao redor;
+   preenchimento: 14px;
+   lacuna: 70px;
+}
+. cabe çalho-imagem {
+    altura:80px;
+   exibição: flexbox;
+ }
+
+. cabeçalho-menu-item {
+      família de fontes:'sarala',sans-serif;
+      cor:#08070a;
+      fonte-peso: 300;
+      tamanho da fonte: 13px;
+      lacuna:20px;
+   }
+. conteudo | {
+    margem-fundo: 80px;
+    borda - topo: 0.04pxsólido#f6eee7;
+   }
+. conteudo-principal {
+      exibição: flex;
+      flex-direção: linha;
+      itens de alinhamento:centro;
+      justificar-conteúdo:espaço-ao redor;
+   } 
+. conteudo-principal-imagem {
+         altura: 210px;
+        exibição: flexbox;
+   }
+. conteudo-principal-escrito {
+      fonte-família: 'Justo', cursivo;
+      fonte-peso: 300;
+      tamanho da fonte: 15px;
+      cor:#281e16;
+     }
+
+. conteudo-principal-escrito-subtitulo {
+        família de fontes:'sarala',sans-serif;
+        fonte-peso: 300;
+        tamanho da fonte: 9px;
+        cor: #ecd6c4;
+
+     }
+     
+. conteudo-principal-escrito-botão:hover {
+      cor de fundo: rgba (236,214,196,0.53);
+      largura: 180px;
+      altura:60px;
+      borda:nenhuma;
+      itens de alinhamento:centro;
+      caixa-sombra: 4 px 5 px 4pxrgba (0,0,0,0,0.25);
+
+   }
+. conteudo-secundario {
+      exibição: flex;
+      flex-direção: coluna;
+      itens de alinhamento:centro;
+      lacuna: 12px;
+      margem-topo: 28px;
+
+   }
+. conteudo-secundario-paragrafo {
+    família de fontes:'sarala',sans-serif;
+    fonte-peso: 200;
+    tamanho da fonte: 14px;
+   }
+. rodape {  
+    preenchimento: 12px;
+    borda - topo: 0.4pxsólido#FFF2E7;
+  }
+. rodape-imagem {
+    altura:70px;
+    exibição:bloco;
+    margem: 0automático;
+
+   }
+
+}
